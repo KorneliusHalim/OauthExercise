@@ -1,0 +1,5 @@
+
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ä€¥¨8ïÌ˜ÿˆ.
+msquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•´ªÂÿÿÿÿÿ8ïÌ˜ÿˆ.
+csquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(•ÁÃ«øÿÿÿÿ8ïÌ˜ÿˆ.
+ksquid:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(Ü’í*8ïÌ˜ÿˆ.
